@@ -10,4 +10,4 @@ Usage:
   ipgeo.py -i 123.456.789.012 -d
       Show debug info. Used for development.
       
-Use all the switches for all the stuffs... but -i and and IP are required.
+Use all the switches for all the stuffs... but -i and the IP are required.
