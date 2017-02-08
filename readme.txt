@@ -12,9 +12,12 @@ Usage:
       
 Use all the switches for all the stuffs... but -i and the IP are required.
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Quick utility to get IP location.  Currently all sources are displayed, but future update will include switches to choose any/all sources.  Not a priority as this is a piece of a bigger project.  It will get added just cuz fun.
+Quick utility to get IP location.  Currently all sources are displayed, 
+but future update will include switches to choose any/all sources.  Not 
+a priority as this is a piece of a bigger project.  It will get added 
+just cuz fun.
 
 
 Planed Updates: In order of priority.
